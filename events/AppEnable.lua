@@ -221,7 +221,7 @@ local y2bList = {
     {"UCIdEIHpS0TdkqRkHL5OkLtA","名取纱那🍆"}, --名取纱那
     {"UCBAopGXGGatkiB1-qFRG9WA","兔纱🎀"}, --兔纱
     {"UCZ1WJDkMNiZ_QwHnNrVf7Pw","饼叽🐥"}, --饼叽
-    {"UC8gSN9D-1FL0BGBQt7p8gFQ","森永みう🍫小号"}, --森永
+    --{"UC8gSN9D-1FL0BGBQt7p8gFQ","森永みう🍫小号"}, --森永
     {"UCzAxQCoeJrmYkHr0cHfD0Nw","yua🔯"},--yua
     {"UCerH0KOGyPaC5WueExiicZQ","杏💣🍠"},--Anzu
     {"UCPf-EnX70UM7jqjKwhDmS8g","玛格罗那🐟"},--魔王
@@ -241,7 +241,7 @@ local bList = {
     {13946381,"夏色祭🏮"}, --祭
     {10545,"A姐💽"}, --adogsama
     {12770821,"千草はな🌼"}, --hana
-    {3822389,"有栖マナ🐾"}, --mana
+    {3822389,"Soy_25🌸"}, --mana
     {4634167,"犬山💙"}, --犬山
     {43067,"HAN佬🦊"}, --han佬
     {21302477,"本间向日葵🌻"}, --葵
